@@ -23,7 +23,7 @@ This repository is a collection of my Java **Object-Oriented Programming (OOPs)*
 This is **just for learning purposes** and **not a professional project**.  
 
 ## 📧 Connect with Me  
-🔗 **GitHub**: (https://github.com/sivakumarmarisetti)  
+🔗 **GitHub**: https://github.com/sivakumarmarisetti
 
 ---
 
